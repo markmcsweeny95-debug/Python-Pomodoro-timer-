@@ -52,11 +52,4 @@ A Python-based Pomodoro Timer designed to improve focus and productivity using t
 
 ---
 
-## 🚀 Future Improvements (optional ideas)
 
-* GUI buttons instead of keyboard-only controls
-* Sound notifications
-* Statistics tracking
-* Dark mode
-
----
